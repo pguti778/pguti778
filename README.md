@@ -52,13 +52,13 @@ Do I know about things like cloud, mobile and other brand new technologies? Ther
 
 Software developers tend to think that after some years working as developers their only and natural evolution is to be a tech leads or managers.  That’s not the case for many, because they lack some key non-technical skills like leadership or respect from colleagues. 
 
-As opposed to developers, already in place Software Managers tend to think about developers as resources to get their objective of being recognized by the customers as doers. That’s true in many case.  
+As opposed to developers, already in place Software Managers tend to think about developers as resources to get their objective of being recognized by the customers as doers. That’s unfortunately true, in many cases. Many has been said about management, I'm not getting into details here, just focusing on my experience. 
 
 In my opinion it’s like hardware and software: none of them are useful without the other.
 
-What does it imply to be a Software Manager? Many has been said about Senior Management. To some companies, it’s to be trustful and loyal to the person that have put you in that position. To some narrow minded, it is to have people reporting to you, under your functional line. 
+What does it imply to be a Software Manager? Many has been said about Senior Management. In some companies, it’s to be trusted by the person making the decision on assigning that position. To some narrow minded, it is to have people reporting to you, under your functional line. 
 
-To me, it means to be distinguished enough to be inquired about the opinion for activities being done into your applications, whether they are development, technical, functional, consultancy, maintenance or budget related, independently if you have the formal position or not. That means, you are the manager into your scope. 
+To me, it means to be distinguished enough to be inquired about the opinion for activities being done into your applications, whether they are development, technical, functional, or budget related, independently if you have the formal position or not. That means, you are the manager or head into your scope. 
 
 I’m currently in that situation. I don’t have people under my line, neither a formal management position. But I’m being asking for my opinion, for my help, for my agreement, on every day activities being done. 
 
