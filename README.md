@@ -31,7 +31,7 @@ Full English, Spanish and Portuguese speaker.
 
 ## A word about Enterprises and Software Development
 
-Although in many professions, junior hiring is best thought from Senior Managers as a balance between cost and performance. In Software development is somehow different. 
+Although in many professions, junior hiring is best thought from Senior Managers as a balance between cost and performance, in Software development is somehow different. 
 
 Enterprises has invested a lot of time and money (effort) into the current running code they have. Refactoring, evergreening, upgrade into new technologies, it is like throwing away all that code, which requires huge investments not every enterprise wishes to do, because it's the kind-of the opposite to win-win. Let me explain.
 
