@@ -1,9 +1,9 @@
 ### Hello there,
 
-I’m a 20+ years software developer multi-skilled expert with experience in many IT roles and company, from small buiness to large enterprises. I have developed from scratch, implemented global developed applications, worked with teams of hundreds and teams of 2, been the mentor and provided SME view into every task Ive been involved with. 
+I’m a 20+ years software developer multi-skilled expert with experience in many IT roles and companies, from small buiness to large enterprises. I have developed from scratch, implemented global developed applications, worked with teams of hundreds and teams of 2, been the mentor and provided SME view into every task I've been involved with. 
 
 ### Technologies
-Full Stack, Java, Spring, REST, WebServices, JavaScript, Angular, NativeScript, Capacitor, Linux, AWS, GCP, Oracle/SQLServer, NoSQL/MongoDB, Git, Web development, Android Development, Python, UML, MQ/JMS, General Software Architecture, JPA. End to end lifecycle of software development. 
+Full Stack, Java, Spring, Angular, NativeScript, Capacitor, Linux, AWS, GCP, Oracle/SQLServer, NoSQL/MongoDB, Git, Web development, Android Development, Python, UML/PlantUML, MQ/JMS, General Software Architecture, JPA. End to end lifecycle of software development. 
 
 ### Skills
 - Problem solving
@@ -22,6 +22,11 @@ I’m currently a fulltime employee of a non-tech financial related company. My 
 - Handling internal procedures
 
 I'm seen as a Tech-guru, mentor for the team and consultant for almost every decision.
+
+### Non-technologies
+Agile, Project management, Budget & financial analysis and forecasting. Team Mentoring.  
+
+Full English, Spanish and Portuguese speaker. 
 
 
 ## A word about Enterprises and Software Development
