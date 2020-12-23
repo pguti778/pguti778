@@ -43,10 +43,9 @@ This is the reason on why hiring long time software engineers experts add value 
 Anyhow, there are some situation in which you need flat learning curve to get up to speed with maintenance and feature upgrade, to work the backlog your products already have. The cons for senior hiring is that they tend to cost much more than juniors and are more subject to hiring to other enterprises, in addition that they are hard to find. 
 -->
 
+My first steps into the development world was back in the 90s, and currently I’m a software maintainer multi-skilled.
 
-My first steps into the development world was with Linux, Java, SQL and others, and I’m currently a software maintainer multi-skilled. 
-
-Do I know about things like cloud, mobile and other brand new technologies? There is a point in your career where by just looking into a video on YouTube or reading a blog, you can get general introduction, some basic information about a tech and you can work it out. Just take a look at my app. Fully built with new technologies like Angular and SpringCloud, to which I have not taken any formal training, but self learned all those. In my résumé, you will not see any experience with that, but I’ve figured them all and get a fully working app. 
+Do I know about things like cloud, mobile and other brand new technologies? There is a point in your career where by just looking into a video on YouTube or reading a blog, you can get general introduction, some basic information about a tech and you can work it out. Just take a look at my (app)[https://pguti778.github.io/apal/]. Fully built with new technologies like Angular and SpringCloud, to which I have not taken any formal training, but self learned all those. In my résumé, you will not see any experience with that, but I’ve figured them all and get a fully working app. 
 
 ## A word about Software Management
 
