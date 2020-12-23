@@ -45,7 +45,7 @@ Anyhow, there are some situation in which you need flat learning curve to get up
 
 My first steps into the development world was back in the 90s, and currently I’m a software maintainer multi-skilled.
 
-Do I know about things like cloud, mobile and other brand new technologies? There is a point in your career where by just looking into a video on YouTube or reading a blog, you can get general introduction, some basic information about a tech and you can work it out. Just take a look at my (app)[https://pguti778.github.io/apal/]. Fully built with new technologies like Angular and SpringCloud, to which I have not taken any formal training, but self learned all those. In my résumé, you will not see any experience with that, but I’ve figured them all and get a fully working app. 
+Do I know about things like cloud, mobile and other brand new technologies? There is a point in your career where by just looking into a video on YouTube or reading a blog, you can get general introduction, some basic information about a tech and you can work it out. Just take a look at my [app](https://pguti778.github.io/apal/). Fully built with new technologies like Angular and SpringCloud, to which I have not taken any formal training, but self learned all those. In my résumé, you will not see any experience with that, but I’ve figured them all and get a fully working app. 
 
 ## A word about Software Management
 
