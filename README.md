@@ -29,6 +29,12 @@ In the past I also did Project management, Budget & Financial analysis and forec
 
 I am full English, Spanish and Portuguese speaker. 
 
+# Mentoring Services
+
+As part of my experience, I can bring training and mentoring courses to anyone that would like to be get into the enterprise world. It's not only computing, development and technologies. It's also attitude, understanding corporte thinking and knowing how to behave in different situations.
+
+Please follow this link to know more about this training. 
+
 <!--
 Here are some ideas to get you started:
 
