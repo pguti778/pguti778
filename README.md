@@ -1,6 +1,6 @@
 ## Hello,
 
-I’m a 20+ years software developer multi-skilled expert with experience in many IT roles and companies, from small buiness to large enterprises. During my carrer, I have developed from scratch, implemented global developed applications, worked with both large and small teams, been the mentor and provided experienced view into every task I've been involved with. 
+20+ years software developer multi-skilled expert with experience in many IT roles and companies, from small buiness to large enterprises. During my carrer, I have developed application from scratch, implemented global developed applications, worked with both large and small teams, been the mentor and provided experienced both architectural and procedural view into every high-levelproject and detailed activity I've been involved with. 
 
 ### Technologies
 Full Stack, Java, Spring, Angular, NativeScript/Capacitor, Linux, AWS/GCP, Oracle/SQLServer, NoSQL/MongoDB, Git, Web development, Android Development, Python, UML/PlantUML, MQ/JMS, General Software Architecture/SOA/EventDriven, JPA. End to end lifecycle of software development. 
